@@ -11,3 +11,5 @@ Most of my day-to-day work lives in private repos (lead-qualification pipelines,
 
 #### Public Deep Dives & Benchmarks
 - **[otel-bullmq-signoz-tracing](https://github.com/Hunter-debug00/otel-bullmq-signoz-tracing)** — Measuring hidden Redis queue wait time (`job_age_at_attempt_ms`) vs. active worker duration in BullMQ across a 10-trial concurrency benchmark.
+
+**Writing:** [dev.to/hunter-debug00](https://dev.to/hunter-debug00)
